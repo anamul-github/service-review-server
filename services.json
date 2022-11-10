@@ -3,36 +3,42 @@
         "name": "Goblet Squat",
         "img": "https://hips.hearstapps.com/hmg-prod/images/mh-formcheck-goblet-squat-1553875310.png",
         "price": "30",
-        "description": "While holding a dumbbell with both hands at chest level, set your feet shoulder-width apart."
+        "description": "While holding a dumbbell with both hands at chest level, set your feet shoulder-width apart.",
+        "details": "Push your butt back like you are sitting in an invisible chair and go down until your elbows meet the inside of your knees. Make sure to keep your heels flat and press onto the floor. Once you reach the bottom of your squat, pause for a moment, then return to starting position. Repeat 15 times."
     },
     {
         "name": "Thruster Squats",
         "img": "https://hips.hearstapps.com/hmg-prod/images/form-check-4-10-1554907592.png",
         "price": "30",
-        "description": "We love squats! They work your entire body. Start by holding weights at shoulder-level."
+        "description": "We love squats! They work your entire body. Start by holding weights at shoulder-level.",
+        "details": "Using proper technique, squat down as far as you can. Hold for a moment, then after coming back to starting position, raise the weights above your head. Repeat 15 times."
     },
     {
         "name": "Plank Rows",
         "img": "https://i.ytimg.com/vi/pSHjTRCQxIw/maxresdefault.jpg",
         "price": "25",
-        "description": "This strength exercise is great for building a strong core, glutes, and arms!"
+        "description": "This strength exercise is great for building a strong core, glutes, and arms!",
+        "details": "While gripping a pair of dumbbells, get into pushup position. Your hands should be just over shoulder-width apart and your feet slightly over hip-width apart. Keeping your hips parallel to the floor, bend your right elbow to pull the weight up toward the right side of your body. Pause for a moment, then slowly lower the weight back to start position. Repeat on the other side."
     },
     {
         "name": "Overhead Tricep Extensions",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2018/08/1109-overhead-two-arm-triceps-extension.jpg?quality=86&strip=all",
         "price": "35",
-        "description": "Say goodbye to the arm jiggle, and say hello to tight and toned triceps!"
+        "description": "Say goodbye to the arm jiggle, and say hello to tight and toned triceps!",
+        "details": "Start by standing (or sitting) with your feet placed shoulder-width apart. Hold a dumbbell directly over your head with your arm extended. Then gently bend your elbows and lower the dumbbell down behind your head. Hold for a second, then raise it back to the starting position. Repeat this motion 15 to 30 times with both arms."
     },
     {
         "name": "Hammer Curls",
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hammer-curls-1581441441.jpg",
         "price": "35",
-        "description": "This is one of the most basic, yet effective, dumbbell exercises to build arm muscles."
+        "description": "This is one of the most basic, yet effective, dumbbell exercises to build arm muscles.",
+        "details": "This will target the outer biceps, forearms, shoulders, and traps. Hold two dumbbells of equal weight in both hands. Stand tall with a strong back, with your arms at your sides and chest pushed out slightly. Hold the dumbbells so your knuckles are facing away from the body, and the thumb leads the motion. Raise the dumbbells upward till the biceps are fully contracted and at shoulder level, hold for a few seconds, then slowly lower the dumbbells to your starting position. Repeat 15 to 30 times."
     },
     {
         "name": "Dumbbell Row",
         "img": "https://hips.hearstapps.com/hmg-prod/images/form-check-index-1591205064.png",
         "price": "30",
-        "description": "This will help create a strong back, arms, and core."
+        "description": "This will help create a strong back, arms, and core.",
+        "details": "First find an empty bench and grab your dumbbells. Start by placing your left hand and left knee on the bench. Holding a dumbbell in your right hand, bend your right elbow and pull the dumbbell up to the side of your chest. Hold for a moment, then slowly lower back to your starting position. Repeat 10 to 12 times, then repeat on the other side."
     }
 ]
